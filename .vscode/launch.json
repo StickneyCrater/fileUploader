@@ -7,10 +7,10 @@
             "request": "launch",
             "preLaunchTask": "build2",
             "program": "${workspaceFolder}/bin/Debug/net8.0/FileUploader.dll",
-            "xargs": ["C:\\temp\\FileUploader", "5"],
-            "zargs": ["t:\\nny\\nnx", "0"],
+            "zargs": ["C:\\temp\\FileUploader", "5"],
+            "args": ["t:\\nny", "0", "update"],
             "yargs": ["S:\\wk", "1"],
-            "args": ["T:\\nny\\vix221\\新しいﾌｫﾙﾀﾞ", "1", "1579424981613.psd"],
+            "xxargs": ["T:\\nny\\vix221\\新しいﾌｫﾙﾀﾞ", "1", "1579424981613.psd"],
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
             "console": "internalConsole"
